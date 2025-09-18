@@ -2,7 +2,8 @@
 
 int main() { 
     printf("Desafio super_trunfo.c \n");
-
+    printf("Novo commit\n");
+    
     char estado[50];
     char codigo[50];
     char cidade[50];
